@@ -1,5 +1,5 @@
 # 💫 About Me:
-🕵🏻‍♂️ Técnico Informático en Administración de Sistemas Informáticos en Red con experiencia como Junior Full-Stack Developer. Apasionado por la resolución de problemas técnicos 🔧, la optimización de infraestructuras ⚙️ y la creación de experiencias digitales intuitivas (UX/UI). Siempre en busca de nuevos retos y en constante aprendizaje, combino mis habilidades técnicas con un enfoque centrado en el usuario para ofrecer soluciones eficientes y creativas.
+🕵🏻‍♂️ Técnico Informático en Administración de Sistemas Informáticos en Red con experiencia como Junior Full-Stack Developer. Apasionado por la resolución de problemas técnicos 🔧, la optimización de infraestructuras ⚙️ y la creación de experiencias digitales intuitivas (UX/UI). Siempre en busca de nuevos retos y en constante aprendizaje 📈, combino mis habilidades técnicas con un enfoque centrado en el usuario para ofrecer soluciones eficientes y creativas.
 
 
 ## 🌐 Socials:
